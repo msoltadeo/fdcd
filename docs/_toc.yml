@@ -1,0 +1,8 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Planilla de Cálculo
+    numbered: True
+    chapters:
+      - file: unidades/u1-planilla-calculo/unidad-1-planilla-calculo.md
