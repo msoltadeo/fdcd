@@ -1,1 +1,3 @@
 pandas
+jupyter-book>=1,<2
+docutils==0.17.1
