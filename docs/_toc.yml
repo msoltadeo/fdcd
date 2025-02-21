@@ -6,3 +6,4 @@ parts:
     numbered: True
     chapters:
       - file: unidades/u1-planilla-calculo/unidad-1-planilla-calculo.md
+      - file: unidades/u1-planilla-calculo/test.ipynb
